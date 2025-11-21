@@ -11,10 +11,15 @@ The purpose of this repository is to practice Python basics and keep track of my
 - Description: Print "Hello, World!" to stdout.
 - Code file: `Say "Hello, World!" With Python.py`
 - Problem Link: [HackerRank Hello World](https://www.hackerrank.com/challenges/py-hello-world/problem)
-- Notes: Demonstrates basic output in Python.
 
 2. Arithmetic Operations
 - Description: Read two integers and print their sum, difference, and product.
 - Code file: `arithmetic_operations.py`
 - Problem Link: [HackerRank Arithmetic Operations](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
-- Notes: Demonstrates input, output, and basic arithmetic operations in Python.
+
+3. Python: Division
+- Description: Read two integers and print their disivion in float and integer.
+- Code file: `Python: Division.py`
+- Problem Link: [HackerRank Arithmetic Operations](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+
+
