@@ -9,7 +9,7 @@ The purpose of this repository is to practice Python basics and keep track of my
 
 1. Hello World
 - Description: Print "Hello, World!" to stdout.
-- Code file: `hello_world.py`
+- Code file: Beginner/"Hello, World!" With Python/Say "Hello, World!" With Python.py
 - Problem Link: [HackerRank Hello World](https://www.hackerrank.com/challenges/py-hello-world/problem)
 - Notes: Demonstrates basic output in Python.
 
