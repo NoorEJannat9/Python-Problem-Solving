@@ -1,4 +1,4 @@
-This is a solution to the "Hello World" problem on HackerRank.
+This is a solution to the "Arithmetic Operators" problem on HackerRank.
 Problem Link: (https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
 
 Code
