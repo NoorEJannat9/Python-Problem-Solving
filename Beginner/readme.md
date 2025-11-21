@@ -20,6 +20,6 @@ The purpose of this repository is to practice Python basics and keep track of my
 3. Python: Division
 - Description: Read two integers and print their disivion in float and integer.
 - Code file: `Python: Division.py`
-- Problem Link: [HackerRank Arithmetic Operations](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+- Problem Link: (https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)
 
 
